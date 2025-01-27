@@ -2,7 +2,7 @@ class FuckYou < Formula
   desc "A description of your Go project"
   homepage "https://github.com/Baxromumarov/homebrew-fuck-you"
   url "https://github.com/Baxromumarov/homebrew-fuck-you/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "7e1afb2077cae2fdd62f751803cd6c8d21fe5f292c4c1b40c22b910d2f27c38d"
+  sha256 "fac489c9373368a09a66fd7e9f4763a784d8fdda7d9557b195152e85dc6af088"
 
   depends_on "go" => :build
 
