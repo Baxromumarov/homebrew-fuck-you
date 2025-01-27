@@ -1,7 +1,7 @@
 class FuckYou < Formula
   desc "A description of your Go project"
   homepage "https://github.com/Baxromumarov/fuck-you"
-  url "https://github.com/Baxromumarov/fuck-you/archive/refs/tags/v1.0.0.tar.gz"
+  url "https://github.com/Baxromumarov/fuck-you/archive/refs/tags/v1.0.1.tar.gz"
   sha256 "db3c98b0484863334ef28829e5da42a2195de1b1daf0e482e931e3e79e8f91ba"
   license "MIT" # Or your project's license
 
