@@ -8,10 +8,10 @@ class FuckYou < Formula
   depends_on "go" => :build
 
   def install
-    system "go", "build", *std_go_args(output: bin/"fuck_you")
+    system "go", "build", *std_go_args
   end
 
   test do
-    assert_match "Usage", shell_output("#{bin}/fuck_you --help")
+    assert_match "Usage", shell_output("#{bin}/fuck-you --help")
   end
 end
